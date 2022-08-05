@@ -1,0 +1,19 @@
+{
+  "name": "br-tax-salary-calc",
+  "version": "1.0.0",
+  "description": "Tools to help with Brazilian salary taxes calculation and to convert salary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnizto/br-tax-salary-calc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnizto/br-tax-salary-calc/issues"
+  },
+  "homepage": "https://github.com/gnizto/br-tax-salary-calc#readme"
+}
